@@ -1,5 +1,6 @@
 body{
 	background-color: #E7E6B7;
+	font-family:'Roboto', sans-serif;;
 }
 
 .clothing body {
@@ -77,6 +78,12 @@ inline-list {
 	margin-bottom: 2em;
 }
 
+.initial-content h1{
+font-family:'Sansita', sans-serif;
+font-weight:900;
+
+}
+
 .main-content {
 	padding: 3em 0;
 }
@@ -117,6 +124,12 @@ inline-list {
 	padding-right: 8px;
 }
 
+.byline {
+	font-style: italic;
+}
+
+.intro {
+	font-size:1.5em;
 }
 hr {
 	list-style: none;
