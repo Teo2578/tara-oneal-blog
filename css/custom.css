@@ -1,0 +1,145 @@
+body{
+	background-color: #E7E6B7;
+}
+
+.clothing body {
+	background-color: white;
+}
+
+li {
+	list-style-type: none;
+}
+
+inline-list {
+	background-image: url("../img/wood2.jpg");
+}
+
+ img {
+ 	/*opacity: 0.8;*/
+ }
+.top-bar {
+  background: none repeat scroll 0 0 black;
+  }
+ 
+.contain-to-grid.sticky {
+	background-color:black;
+}
+.top-bar-section ul {
+	background-color:black;
+
+}
+
+  .top-bar-section ul > li {
+    background: black;
+}
+
+    .top-bar-section ul li > a {
+      color: white;
+
+      display: block;
+      font-family: times
+  
+    
+      text-transform: none;
+      width: 100%; 
+  }
+
+.top-bar-section ul li > a.button {      
+        background-color: black;
+        border-color: black
+}
+
+.top-bar-section li:not(.has-form) a:not(.button){
+	font-family: courier;
+	background-color: #000;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button).active {
+	background-color: purple;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button):hover {
+	background-color: green;
+}
+
+.hero {
+	background-image: url("../img/flowers4.jpg");
+	padding:3em 0;
+}
+
+.hero img {
+	width:500;
+	height:500;
+}
+
+.initial-content {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.main-content {
+	padding: 3em 0;
+}
+
+
+.blog1 h1 {
+	font-size: 16px;
+	font-style: italic;
+	color: red;
+}
+.blog1 h2 {
+	font-size: 20px;
+
+	color: white;
+}
+.blog1 h3 {
+	font-size: 12px;
+	font-style: italic;
+	color: white;
+}
+
+.blog1 h4 {
+	font-size: 16px;
+	color: black;
+	background: white;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+.blog1 p {
+	font-size: 16px;
+	color: white;
+	background: black;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+}
+hr {
+	list-style: none;
+	border-style: none;
+}
+
+.contactboxes li {
+background-color: white;
+}
+.name img {
+	width: 20px; height: 40px;
+}
+
+.bgpanel {
+	background-color:rgba(0,0,0,.5);
+}
+
+footer{
+	background-color: rgba(255,255,255,.4);
+
+	margin-top: 40px;
+}
+
+#mc_embed_signup {
+	margin-bottom: 2em;
+}
