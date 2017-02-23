@@ -151,6 +151,11 @@ hr {
 	border-style: none;
 }
 
+.icons {
+align: right;
+	color: black;
+}
+
 .contactboxes li {
 background-color: white;
 }
