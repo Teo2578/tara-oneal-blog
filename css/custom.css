@@ -17,7 +17,11 @@ h3{
 	color: gray;
 	
 }
-
+.intro {
+color: darkgreen;
+font-weight: 10px
+	
+}
 .color ul li a{
 	background: red;
 }
