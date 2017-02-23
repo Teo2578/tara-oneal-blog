@@ -149,8 +149,8 @@ font-weight:900;
 	color: darkred;
 }
 .byline4 {
-	font-style: italic;
-	color:red;
+	font-style: bold;
+	color:green;
 }
 .intro {
 	font-size:1.2em;
