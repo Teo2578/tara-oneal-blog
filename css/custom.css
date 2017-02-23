@@ -11,6 +11,18 @@ li {
 	list-style-type: none;
 }
 
+h3{
+	font-style:italic;
+	font-size: 15px;
+	color: gray;
+	
+}
+
+.color ul li a{
+	background: red;
+}
+
+
 inline-list {
 	background-image: url("../img/wood2.jpg");
 }
@@ -45,6 +57,8 @@ inline-list {
       width: 100%; 
   }
 
+
+}
 .top-bar-section ul li > a.button {      
         background-color: black;
         border-color: black
@@ -56,11 +70,12 @@ inline-list {
 }
 
 .top-bar-section li:not(.has-form) a:not(.button).active {
-	background-color: purple;
+	background-color: #F4C051;
 }
 
 .top-bar-section li:not(.has-form) a:not(.button):hover {
-	background-color: green;
+	background-color: #F4C051;
+	color: green;
 }
 
 .hero {
@@ -148,9 +163,9 @@ background-color: white;
 }
 
 footer{
-	background-color: rgba(255,255,255,.4);
-
+font-family: 'Roboto';
 	margin-top: 40px;
+	color: black;
 }
 
 #mc_embed_signup {
