@@ -19,9 +19,10 @@ h3{
 }
 .intro {
 color: darkgreen;
-font-weight: 10px
 	
 }
+
+
 .color ul li a{
 	background: red;
 }
@@ -145,10 +146,12 @@ font-weight:900;
 
 .byline {
 	font-style: italic;
+	color: darkred;
 }
 
 .intro {
-	font-size:1.5em;
+	font-size:1.2em;
+	font-style: bold;
 }
 hr {
 	list-style: none;
